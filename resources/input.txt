@@ -1,0 +1,3 @@
+this is a Java text file example
+ Java can you see this file???
+ I have a Java file
